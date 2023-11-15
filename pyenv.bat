@@ -1,0 +1,1 @@
+python -m venv .venv && echo ".venv\Scripts\activate" > activate.bat && activate
